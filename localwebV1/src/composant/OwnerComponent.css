@@ -1,0 +1,56 @@
+.container {
+    margin-top: 20px;
+  }
+  
+  .owner-info {
+    margin-bottom: 20px;
+  }
+  
+  .actions {
+    margin-top: 10px;
+  }
+  
+  .add-owner-form,
+  .edit-owner-form {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .edit-owner-form {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary,
+  .btn-danger {
+    margin-right: 5px;
+  }
+  
+  .my-4 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .list-group-item {
+    margin-bottom: 20px;
+  }
+  
+  .list-group-item h4 {
+    margin-bottom: 10px;
+  }
+  
+  .list-group-item p {
+    margin-bottom: 5px;
+  }
+  
+  .list-group-item:last-child {
+    margin-bottom: 0;
+  }
+  
+  @media (max-width: 576px) {
+    .col-md-6 {
+      margin-top: 10px;
+    }
+  }
+  
